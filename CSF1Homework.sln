@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSF1Homework", "CSF1Homework\CSF1Homework.csproj", "{AE6FCFAA-F44C-4F23-8B3D-ABF1A4D27C53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitLoop", "CSF1Homework\FruitLoop.csproj", "{AE6FCFAA-F44C-4F23-8B3D-ABF1A4D27C53}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_Application", "ATM_Application\ATM_Application.csproj", "{5CA56A61-F0DB-4D0F-95A0-5FC186BDA8B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadLibWarmUp", "MadLibWarmUp\MadLibWarmUp.csproj", "{3294A93E-CB9D-4D2F-AA27-51CF44AF9F08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5CA56A61-F0DB-4D0F-95A0-5FC186BDA8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CA56A61-F0DB-4D0F-95A0-5FC186BDA8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CA56A61-F0DB-4D0F-95A0-5FC186BDA8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3294A93E-CB9D-4D2F-AA27-51CF44AF9F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3294A93E-CB9D-4D2F-AA27-51CF44AF9F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3294A93E-CB9D-4D2F-AA27-51CF44AF9F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3294A93E-CB9D-4D2F-AA27-51CF44AF9F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
